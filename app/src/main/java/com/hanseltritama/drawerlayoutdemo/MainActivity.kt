@@ -2,14 +2,9 @@ package com.hanseltritama.drawerlayoutdemo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.Gravity
-import android.view.View
-import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.core.view.GravityCompat
-import androidx.drawerlayout.widget.DrawerLayout
-import kotlinx.android.synthetic.main.navigation_view.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
